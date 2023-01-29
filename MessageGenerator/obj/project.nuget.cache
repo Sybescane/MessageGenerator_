@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tYm/mGJxO2SY983nb0ZwOPYTWzVbK4otnwFVpLyrIBTUNulK5Y7YuhSlrj3hfFvddufQnIItwSUgAqkYst4NfQ==",
+  "dgSpecHash": "gQ3+bOvsFzNvKyQ3ihm4GTYrqzN1Dp3+2jOzdiUy0ALQe2DQTZOeaZ8CWr9+opDUdqskS3WoZUMId5n8085kfA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Александр\\OneDrive - НИТУ МИСиС\\Рабочий стол\\GitHub\\MessageGenerator\\MessageGenerator\\MessageGenerator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Александр\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
